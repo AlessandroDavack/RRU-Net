@@ -6,7 +6,7 @@ GROUND_TRUTH_FOLDER = "Ground_Truth"
 DATASET_NAME = "CMFDdb_grip"
 DATASET_DIR = '/content/drive/MyDrive/VisioPe_FinalProject/' 
 DATASET_SIZE = 80
-IMG_SHAPE = (1024,768)
+IMG_SHAPE = (384, 256)
 IMG_CHANNELS = 3
 
 # Training
